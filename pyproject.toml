@@ -1,0 +1,14 @@
+[project]
+name = "savemem"
+description = "Save Image/Latent to Shared Memory"
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/hnmr293/comfyui-savemem"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "comfyui-savemem"
+Icon = ""
